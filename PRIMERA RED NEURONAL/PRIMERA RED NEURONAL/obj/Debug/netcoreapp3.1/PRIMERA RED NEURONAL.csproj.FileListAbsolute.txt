@@ -1,0 +1,13 @@
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\bin\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.exe
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\bin\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.deps.json
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\bin\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.runtimeconfig.json
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\bin\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.runtimeconfig.dev.json
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\bin\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.dll
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\bin\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.pdb
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\obj\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.csprojAssemblyReference.cache
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\obj\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.AssemblyInfoInputs.cache
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\obj\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.AssemblyInfo.cs
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\obj\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.csproj.CoreCompileInputs.cache
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\obj\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.dll
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\obj\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.pdb
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\PRIMERA RED NEURONAL\PRIMERA RED NEURONAL\obj\Debug\netcoreapp3.1\PRIMERA RED NEURONAL.genruntimeconfig.cache
