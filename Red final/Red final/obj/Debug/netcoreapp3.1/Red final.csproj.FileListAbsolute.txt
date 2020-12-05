@@ -1,0 +1,13 @@
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\bin\Debug\netcoreapp3.1\Red final.exe
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\bin\Debug\netcoreapp3.1\Red final.deps.json
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\bin\Debug\netcoreapp3.1\Red final.runtimeconfig.json
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\bin\Debug\netcoreapp3.1\Red final.runtimeconfig.dev.json
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\bin\Debug\netcoreapp3.1\Red final.dll
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\bin\Debug\netcoreapp3.1\Red final.pdb
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\obj\Debug\netcoreapp3.1\Red final.csprojAssemblyReference.cache
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\obj\Debug\netcoreapp3.1\Red final.AssemblyInfoInputs.cache
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\obj\Debug\netcoreapp3.1\Red final.AssemblyInfo.cs
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\obj\Debug\netcoreapp3.1\Red final.csproj.CoreCompileInputs.cache
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\obj\Debug\netcoreapp3.1\Red final.dll
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\obj\Debug\netcoreapp3.1\Red final.pdb
+C:\Users\mix\Google Drive\uabcs\s7\redes neuronales\Red final\Red final\obj\Debug\netcoreapp3.1\Red final.genruntimeconfig.cache
